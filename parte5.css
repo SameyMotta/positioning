@@ -1,0 +1,40 @@
+.red{
+width: 200px;
+position:absolute;
+height: 200px;
+background-color: red;
+border:none;
+left: 0;
+top: 0; 
+}
+
+.blue{
+width: 200px;
+position:absolute;
+height: 200px;
+background-color: blue;
+border:none;
+right: 0;
+top: 0; 
+}
+
+.green{
+width: 200px;
+position:absolute;
+height: 200px;
+background-color: green;
+border:none;
+left: 0;
+bottom: 0;  
+}
+
+
+.yellow{
+width: 200px;
+position:absolute;
+height: 200px;
+background-color: yellow;
+border:none;
+right: 0;
+bottom: 0;  
+}

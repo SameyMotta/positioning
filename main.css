@@ -1,0 +1,45 @@
+/* Inserta tu CSS aqui */
+.red{
+width: 200px;
+position:static;
+height: 200px;
+background-color: red;
+border:none;
+margin:0;
+padding: 0; 
+}
+
+.blue{
+width: 200px;
+position:static;
+height: 200px;
+background-color: blue;
+border:none;
+margin:0;
+padding: 0; 
+}
+
+.green{
+width: 200px;
+position:static;
+height: 200px;
+background-color: green;
+border:none;
+margin:0;
+padding: 0;  
+}
+
+.uno{
+	position: relative;
+}
+
+.abu{
+width: 200px;
+height: 200px;
+background-color: blue;
+border:none;
+margin:0;
+padding: 0; 
+left: 200px;
+
+}
